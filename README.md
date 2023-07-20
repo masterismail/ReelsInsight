@@ -1,3 +1,3 @@
 # ReelsInsight
 
-mock implementation for replit bounty
+mock implementation for replit bounty (expired)
